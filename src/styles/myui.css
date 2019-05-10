@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.mint-tabbar > .mint-tab-item.is-selected {
+    background-color: #fffdfd;
+    color: #df1f1f !important;
+    display: block;
+}
+.mint-header{
+    background-color: #df1f1f !important;
+  }
